@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.loginFormPage{
+  text-align-last: center;
+  margin-right: 35%;
+  margin-left: 35%;
+}
